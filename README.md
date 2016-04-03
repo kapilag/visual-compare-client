@@ -6,4 +6,4 @@ Visual-compare-api needs to be running on any port.
 
 Library will automatically create 3 folders for you 1.new (for new screenshots) , 2. base(folder to store baseline images), 3.diff(folder to store diff images)
 
-Example can checked in the TestClient.Class.
+Example can checked in the [TestClient.class](https://github.com/kapilag/visual-compare-client/tree/master/src/main/java).
